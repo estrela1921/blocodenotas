@@ -78,3 +78,33 @@ VALUES
 INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
 VALUES
 ('0043', Isadora Fernandes','1987-01-01','Feminino', '020.212.236-61', isa76@yahoo.com', '970-398-121', 'Ensino Médio Incompleto');
+
+INSERT INTO alunos( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade)
+ VALUES
+ ('0045','Andressa Gusmão','2004-08-22','Feminino','011.222.333-44','Rua doze 1800','andressagusmao@yahoo.com','977-789-123','Graduação');
+
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
+VALUES
+( '0050', 'Ana Louisa', '1973-06-11', 'Feminino', '678.456.789-05', 'Rua São Luis 123', 'analouisa2@gmail.com', '861-579-247', 'Ensino Médio completo'),
+
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
+VALUES
+( '0051', 'Helena Fonseca', '1977-01-13', 'Feminino', '123.456.789-77', 'Rua das Palmeiras 1', 'helenaf2@gmail.com', '781-579-247', 'Pos-graduação'),
+
+
+INSERT INTO alunos( matricula, nome, nascimento, genero, cpf, endereco, email, `telefone`, escolaridade)
+ VALUES 
+('0053','André Bastos','1999-09-27','Masculino','120.545.891-01','Rua Seajesp 32','andrebastos@gmail.com','998-234-876','Graduação, cursando');
+
+
+INSERT INTO alunos( matricula, nome, nascimento, genero, cpf, endereco, email, `telefone`, escolaridade)
+ VALUES 
+('0052','['Maria Helena','2010-10-10','Feminino','123.876.999-50','Rua Goias 100','maria@yahoo.com','999-767-234','Ensino médio incompleto');
+u
+
+INSERT INTO alunos( matricula, nome, nascimento, genero, cpf, endereco, email, `telefone`, escolaridade)
+ VALUES 
+('0053','Andre Luis','1980-11-21','Masculino','456.786.999-48','Rua das acacias 108','andrel@yahoo.com','891-675-841','Pos-graduação, cursando');
+
+
+
