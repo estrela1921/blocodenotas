@@ -11,3 +11,10 @@ VALUES
 ( '0009', 'Luis Lima', '1990-12-08', 'Masculino', '322.133.132-21', 'Rua treze 22', 'ricardo00@gmail.com', '985-346-769', 'Ensino Médio Completo','1');
 ( '0010', 'Luis Henrique', '1996-08-30', 'Masculino', '369.933.639-99', 'Rua Nova York 11', 'henrique001@gmail.com', '997-785-367', 'Ensino Médio Completo','1');
 ( '0011', 'Lucas Moura', '1997-10-28', 'Masculino', '741.274.591-74', 'Av Ramos 40', 'lucas0202@gmail.com', '993-976-912', 'Ensino Médio Completo','1');
+( '0012', 'Camila Pitanga', '1989-08-20', 'Feminino', '276.759.427-99', 'Rua Meire Emanuela 33', 'camilaLima7@gmail.com', '990-000-899', 'Doutorado','2');
+( '0013', 'Fernando Costa ', '1992-09-25', 'Masculino', '724.111.054-08', 'Av Rei Pelé 55', 'fernandodark@gmail.com', '979-748-999', 'Pós-Graduação','2');
+( '0014', 'Cristiane Silva', '1988-05-12', 'Feminino', '748.965.825-77', 'Rua Antonio Castro 31', 'cristiane779@gmail.com', '968-655-976', 'Graduação','2');
+
+
+
+
