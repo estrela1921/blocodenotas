@@ -3,21 +3,6 @@ use alpha;
 
 
 
-
-
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0006', 'Maria Gomes', '1997-07-22', 'Feminino', '231.888.265-88', 'Estrada do Aço 10', 'mariao2@gmail.com', '987-654-888', 'Cursando Curso técnico','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0007', 'José  da Silva', '1999-09-28', 'Masculino', '131.248.182-29', 'Rua Mexico 28', 'jose8@gmail.com', '961-685-112', 'Superior completo','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0008', 'Amanda Bittencourt', '2000-06-22', 'Feminino', '799.987.897-87', 'Rua Montana  171', 'amanda99@gmail.com', '987-654-820', 'Superior completo','1');
-
 INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade , id_curso)
 VALUES
 ( '0009', 'Luis Lima', '1990-12-08', 'Masculino', '322.133.132-21', 'Rua treze 22', 'ricardo00@gmail.com', '985-346-769', 'Ensino Médio Completo','1');
