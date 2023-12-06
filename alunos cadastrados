@@ -1,3 +1,7 @@
 INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
 VALUES
-( '0021', 'Ana Carolina', '1970-01-21', 'Feminino', '123.456.789-05', 'Rua São Cristóvão 123', 'anacarolina2@gmail.com', '998-579-247', 'Ensino Médio incompleto'),
+( '0001', 'Ana Carolina', '1970-01-21', 'Feminino', '123.456.789-05', 'Rua São Cristóvão 123', 'anacarolina2@gmail.com', '998-579-247', 'Ensino Médio incompleto'),
+
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
+VALUES
+( '0002', 'Ester  Fonseca', '1995-09-27', 'Feminino', '160.415.395-50', 'Rua Xávier da Fonseca 756', 'ester@gmail.com', '999-654-321', 'Graduação');
