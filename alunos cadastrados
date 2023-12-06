@@ -1,31 +1,13 @@
 INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
 VALUES
 ( '0001', 'Ana Carolina', '1970-01-21', 'Feminino', '123.456.789-05', 'Rua São Cristóvão 123', 'anacarolina2@gmail.com', '998-579-247', 'Ensino Médio incompleto'),
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade )
-VALUES
 ( '0002', 'Ester  Fonseca', '1995-09-27', 'Feminino', '160.415.395-50', 'Rua Xávier da Fonseca 756', 'ester@gmail.com', '999-654-321', 'Graduação');
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
 ( '0003', 'Carlos Antônio', '1990-08-10', 'Masculino', '250.354.457-01', 'Av. Luis Ayrão 789', 'carlosantonio@gmail.com', '997-859-789', 'Pós-Graduação','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade,id_curso )
-VALUES
 ( '0004', 'Maria Fernanda', '1997-08-20', 'Feminino', '377.444.555-30', 'Rua nove 1900', 'mariaf17@gmail.com', '979-631-894', 'Ensino Fundamental','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
 ( '0005', 'Roberto Campos', '2003-12-25', 'Masculino', '920.477.679-77', 'Av heitor Buarque 122', 'roberto885@gmail.com', '982-677-771', 'Cursando Ensino Médio','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0008', 'Amanda Bittencourt', '2000-06-22', 'Feminino', '799.987.897-87', 'Rua Montana  171', 'amanda99@gmail.com', '987-654-820', 'Superior completo','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
 ( '0006', 'Maria Gomes', '1997-07-22', 'Feminino', '231.888.265-88', 'Estrada do Aço 10', 'mariao2@gmail.com', '987-654-888', 'Cursando Curso técnico','1');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
 ( '0007', 'José  da Silva', '1999-09-28', 'Masculino', '131.248.182-29', 'Rua Mexico 28', 'jose8@gmail.com', '961-685-112', 'Superior completo','1');
-
+( '0008', 'Amanda Bittencourt', '2000-06-22', 'Feminino', '799.987.897-87', 'Rua Montana  171', 'amanda99@gmail.com', '987-654-820', 'Superior completo','1');
+( '0009', 'Luis Lima', '1990-12-08', 'Masculino', '322.133.132-21', 'Rua treze 22', 'ricardo00@gmail.com', '985-346-769', 'Ensino Médio Completo','1');
+( '0010', 'Luis Henrique', '1996-08-30', 'Masculino', '369.933.639-99', 'Rua Nova York 11', 'henrique001@gmail.com', '997-785-367', 'Ensino Médio Completo','1');
+( '0011', 'Lucas Moura', '1997-10-28', 'Masculino', '741.274.591-74', 'Av Ramos 40', 'lucas0202@gmail.com', '993-976-912', 'Ensino Médio Completo','1');
