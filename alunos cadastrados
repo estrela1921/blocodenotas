@@ -17,7 +17,15 @@ INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, 
 VALUES
 ( '0005', 'Roberto Campos', '2003-12-25', 'Masculino', '920.477.679-77', 'Av heitor Buarque 122', 'roberto885@gmail.com', '982-677-771', 'Cursando Ensino Médio','1');
 
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
+VALUES
+( '0008', 'Amanda Bittencourt', '2000-06-22', 'Feminino', '799.987.897-87', 'Rua Montana  171', 'amanda99@gmail.com', '987-654-820', 'Superior completo','1');
 
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
+VALUES
+( '0006', 'Maria Gomes', '1997-07-22', 'Feminino', '231.888.265-88', 'Estrada do Aço 10', 'mariao2@gmail.com', '987-654-888', 'Cursando Curso técnico','1');
 
-
+INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
+VALUES
+( '0007', 'José  da Silva', '1999-09-28', 'Masculino', '131.248.182-29', 'Rua Mexico 28', 'jose8@gmail.com', '961-685-112', 'Superior completo','1');
 
