@@ -26,8 +26,29 @@ VALUES
 ('0024','André Bastos','1999-09-27','Masculino','120.545.891-01','Rua Seajesp 32','andrebastos@gmail.com','998-234-876','Graduação, cursando','3');
 ('0025','Maria Helena','2010-10-10','Feminino','123.876.999-50','Rua Goias 100','maria@yahoo.com','999-767-234','Ensino médio incompleto','3');
 ('0026','Andre Luis','1980-11-21','Masculino','456.786.999-48','Rua das acacias 108','andrel@yahoo.com','891-675-841','Pos-graduação, cursando','3');
-
-
+INSERT INTO alunos (matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso)
+VALUES 
+('0108', 'Pedro Henrique Silva', '1997-05-25', 'masculino', '10000000052', 'Botafogo, Rio de Janeiro - RJ', 'pedrosilva@gmail.com', '77912345678', 'graduação completa', '8'),
+('0109', 'Carolina Oliveira', '2000-08-15', 'feminino', '10000000053', 'Ipanema, Rio de Janeiro - RJ', 'carolinaoliveira@hotmail.com', '88987654321', 'ensino médio completo', '8'),
+('0110', 'Rafaela Santos', '1999-09-28', 'feminino', '10000000054', 'Tijuca, Rio de Janeiro - RJ', 'rafaelasantos@yahoo.com', '99912345678', 'graduação incompleta', '8'),
+('0111', 'João Pereira', '2001-03-21', 'masculino', '10000000055', 'Maracanã, Rio de Janeiro - RJ', 'joaopereira@gmail.com', '11987654321', 'ensino médio completo', '8'),
+('0112', 'Julia Ferreira', '1998-11-12', 'feminino', '10000000056', 'Copacabana, Rio de Janeiro - RJ', 'juliaferreira@hotmail.com', '22912345678', 'ensino médio incompleto', '8'),
+('0113', 'Lucas Oliveira', '2000-04-15', 'masculino', '10000000057', 'Barra da Tijuca, Rio de Janeiro - RJ', 'lucasoliveira@gmail.com', '33987654321', 'graduação completa', '8'),
+('0114', 'Gabriela Lima', '2003-01-29', 'feminino', '10000000058', 'Leblon, Rio de Janeiro - RJ', 'gabrielalima@yahoo.com', '44912345678', 'graduação completa', '8'),
+('0115', 'Matheus Santos', '1999-06-18', 'masculino', '10000000059', 'Laranjeiras, Rio de Janeiro - RJ', 'matheussantos@gmail.com', '55987654321', 'ensino médio incompleto', '8'),
+('0116', 'Ana Carolina Alves', '2002-02-20', 'feminino', '10000000060', 'Grajaú, Rio de Janeiro - RJ', 'anacarolinaalves@hotmail.com', '66912345678', 'graduação completa', '8'),
+('0117', 'Gustavo Pereira', '1998-04-03', 'masculino', '10000000061', 'Botafogo, Rio de Janeiro - RJ', 'gustavopereira@gmail.com', '77987654321', 'graduação completa', '8'),
+('0118', 'Mariana Costa', '2000-07-25', 'feminino', '10000000062', 'Ipanema, Rio de Janeiro - RJ', 'marianacosta@yahoo.com', '88912345678', 'ensino médio completo', '8'),
+('0119', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000063', 'Tijuca, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '99987654321', 'ensino médio completo', '8'),
+('0120', 'Carolina Lima', '2001-11-21', 'feminino', '10000000064', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '11912345678', 'graduação incompleta', '8'),
+('0121', 'João Santos', '1998-12-12', 'masculino', '10000000065', 'Copacabana, Rio de Janeiro - RJ', 'joaosantos@yahoo.com', '22987654321', 'ensino médio completo', '8'),
+('0122', 'Maria Fernanda Oliveira', '2000-03-15', 'feminino', '10000000066', 'Barra da Tijuca, Rio de Janeiro - RJ', 'mariafernandaoliveira@gmail.com', '33912345678', 'ensino médio incompleto', '8'),
+('0123', 'Pedro Henrique Pereira', '1999-06-28', 'masculino', '10000000067', 'Leblon, Rio de Janeiro - RJ', 'pedrohpereira@hotmail.com', '44987654321', 'graduação completa', '8'),
+('0124', 'Gabriela Santos', '2003-01-29', 'feminino', '10000000068', 'Laranjeiras, Rio de Janeiro - RJ', 'gabrielasantos@gmail.com', '55912345678', 'ensino médio completo', '8'),
+('0125', 'Matheus Oliveira', '1999-06-18', 'masculino', '10000000069', 'Grajaú, Rio de Janeiro - RJ', 'matheusoliveira@yahoo.com', '66987654321', 'ensino médio incompleto', '8'),
+('0126', 'Ana Carolina Costa', '2002-02-20', 'feminino', '10000000070', 'Botafogo, Rio de Janeiro - RJ', 'anacarolinacosta@gmail.com', '77912345678', 'graduação completa', '8'),
+('0127', 'Gustavo Lima', '1998-04-03', 'masculino', '10000000071', 'Ipanema, Rio de Janeiro - RJ', 'gustavolima@hotmail.com', '88987654321', 'graduação completa', '8'),
+('0128', 'Mariana Santos', '2000-07-25', 'feminino', '10000000072', 'Tijuca, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '99912345678', 'ensino médio completo', '8');
 
 
 
