@@ -14,7 +14,11 @@ VALUES
 ( '0012', 'Camila Pitanga', '1989-08-20', 'Feminino', '276.759.427-99', 'Rua Meire Emanuela 33', 'camilaLima7@gmail.com', '990-000-899', 'Doutorado','2');
 ( '0013', 'Fernando Costa ', '1992-09-25', 'Masculino', '724.111.054-08', 'Av Rei Pelé 55', 'fernandodark@gmail.com', '979-748-999', 'Pós-Graduação','2');
 ( '0014', 'Cristiane Silva', '1988-05-12', 'Feminino', '748.965.825-77', 'Rua Antonio Castro 31', 'cristiane779@gmail.com', '968-655-976', 'Graduação','2');
-
+( '0015', 'Carlos Emanuel', '2003-08-18', 'Masculino', '788.364.202-66', 'Av. Francisco de Sá 66', 'carlos472@gmail.com', '999-653-789', 'Pós-Graduação','2');
+( '0016', 'Julianna Santos', '1960-02-26', 'Feminino', '251.796.249-99', 'Rua Egito 789', 'julianna789@gmail.com', '991-166-321', 'Ensino Médio completo','2');
+( '0017', 'Umberto Rocha', '1975-12-01', 'Masculino', '274.236.500-77', 'Av. Costa x', 'umberto28@gmail.com', '978-871-564', 'Ensino Médio completo','2');
+( '0018', 'Cirlene Matias', '1989-09-30', 'Feminino', '224.257.636-88', 'Rua das Flores 33', 'cirlene@gmail.com','982-021-664', 'Doutorado','2');
+('0019', 'Angela Figueiredo','2002-10-11', 'Feminino', '010.100.332-54', 'Rua das Magnolias 2', 'angelaf11@gmail.com', '888-001-002', 'Pós-Graduação','2');
 
 
 
