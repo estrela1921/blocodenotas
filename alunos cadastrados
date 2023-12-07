@@ -50,6 +50,43 @@ VALUES
 ('0127', 'Gustavo Lima', '1998-04-03', 'masculino', '10000000071', 'Ipanema, Rio de Janeiro - RJ', 'gustavolima@hotmail.com', '88987654321', 'graduação completa', '8'),
 ('0128', 'Mariana Santos', '2000-07-25', 'feminino', '10000000072', 'Tijuca, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '99912345678', 'ensino médio completo', '8');
 
+INSERT INTO alunos (matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso)
+VALUES 
+('0129', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000073', 'Copacabana, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '11987654321', 'graduação incompleta', '5'),
+('0130', 'Carolina Lima', '2001-11-21', 'feminino', '10000000074', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '22912345678', 'ensino médio completo', '5'),
+('0131', 'João Santos', '1998-12-12', 'masculino', '10000000075', 'Botafogo, Rio de Janeiro - RJ', 'joaosantos@yahoo.com', '33987654321', 'ensino médio completo', '5'),
+('0132', 'Maria Fernanda Oliveira', '2000-03-15', 'feminino', '10000000076', 'Ipanema, Rio de Janeiro - RJ', 'mariafernandaoliveira@gmail.com', '44912345678', 'graduação completa', '6'),
+('0133', 'Pedro Henrique Pereira', '1999-06-28', 'masculino', '10000000077', 'Tijuca, Rio de Janeiro - RJ', 'pedrohpereira@hotmail.com', '55987654321', 'ensino médio incompleto', '6'),
+('0134', 'Gabriela Santos', '2003-01-29', 'feminino', '10000000078', 'Leblon, Rio de Janeiro - RJ', 'gabrielasantos@gmail.com', '66912345678', 'graduação completa', '6'),
+('0135', 'Matheus Oliveira', '1999-06-18', 'masculino', '10000000079', 'Laranjeiras, Rio de Janeiro - RJ', 'matheusoliveira@yahoo.com', '77987654321', 'ensino médio incompleto', '6'),
+('0136', 'Ana Carolina Costa', '2002-02-20', 'feminino', '10000000080', 'Grajaú, Rio de Janeiro - RJ', 'anacarolinacosta@gmail.com', '88912345678', 'graduação completa', '6'),
+('0137', 'Gustavo Lima', '1998-04-03', 'masculino', '10000000081', 'Botafogo, Rio de Janeiro - RJ', 'gustavolima@hotmail.com', '99987654321', 'graduação completa', '6'),
+('0138', 'Mariana Santos', '2000-07-25', 'feminino', '10000000082', 'Ipanema, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '11912345678', 'ensino médio completo', '6'),
+('0139', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000083', 'Copacabana, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '22987654321', 'graduação incompleta', '6'),
+('0140', 'Carolina Lima', '2001-11-21', 'feminino', '10000000084', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '33912345678', 'ensino médio completo', '6'),
+('0141', 'João Santos', '1998-12-12', 'masculino', '10000000085', 'Botafogo, Rio de Janeiro - RJ', 'joaosantos@yahoo.com', '44987654321', 'ensino médio completo', '6'),
+('0142', 'Maria Fernanda Oliveira', '2000-03-15', 'feminino', '10000000086', 'Ipanema, Rio de Janeiro - RJ', 'mariafernandaoliveira@gmail.com', '55912345678', 'graduação completa', '7'),
+('0143', 'Pedro Henrique Pereira', '1999-06-28', 'masculino', '10000000087', 'Tijuca, Rio de Janeiro - RJ', 'pedrohpereira@hotmail.com', '66987654321', 'ensino médio incompleto', '7'),
+('0144', 'Gabriela Santos', '2003-01-29', 'feminino', '10000000088', 'Leblon, Rio de Janeiro - RJ', 'gabrielasantos@gmail.com', '77912345678', 'graduação completa', '7'),
+('0145', 'Matheus Oliveira', '1999-06-18', 'masculino', '10000000089', 'Laranjeiras, Rio de Janeiro - RJ', 'matheusoliveira@yahoo.com', '88987654321', 'ensino médio incompleto', '7'),
+('0146', 'Ana Carolina Costa', '2002-02-20', 'feminino', '10000000090', 'Grajaú, Rio de Janeiro - RJ', 'anacarolinacosta@gmail.com', '99912345678', 'graduação completa', '7'),
+('0147', 'Gustavo Lima', '1998-04-03', 'masculino', '10000000091', 'Botafogo, Rio de Janeiro - RJ', 'gustavolima@hotmail.com', '11987654321', 'graduação completa', '7'),
+('0148', 'Mariana Santos', '2000-07-25', 'feminino', '10000000092', 'Ipanema, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '22912345678', 'ensino médio completo', '7'),
+('0149', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000093', 'Copacabana, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '33987654321', 'graduação incompleta', '7'),
+('0150', 'Carolina Lima', '2001-11-21', 'feminino', '10000000094', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '44912345678', 'ensino médio completo', '7'),
+('0151', 'João Santos', '1998-12-12', 'masculino', '10000000095', 'Botafogo, Rio de Janeiro - RJ', 'joaosantos@yahoo.com', '55987654321', 'ensino médio completo', '7'),
+('0152', 'Maria Fernanda Oliveira', '2000-03-15', 'feminino', '10000000096', 'Ipanema, Rio de Janeiro - RJ', 'mariafernandaoliveira@gmail.com', '66912345678', 'graduação completa', '8'),
+('0153', 'Pedro Henrique Pereira', '1999-06-28', 'masculino', '10000000097', 'Tijuca, Rio de Janeiro - RJ', 'pedrohpereira@hotmail.com', '77987654321', 'ensino médio incompleto', '8'),
+('0154', 'Gabriela Santos', '2003-01-29', 'feminino', '10000000098', 'Leblon, Rio de Janeiro - RJ', 'gabrielasantos@gmail.com', '88912345678', 'graduação completa', '8'),
+('0155', 'Matheus Oliveira', '1999-06-18', 'masculino', '10000000099', 'Laranjeiras, Rio de Janeiro - RJ', 'matheusoliveira@yahoo.com', '99987654321', 'ensino médio incompleto', '8'),
+('0156', 'Ana Carolina Costa', '2002-02-20', 'feminino', '10000000100', 'Grajaú, Rio de Janeiro - RJ', 'anacarolinacosta@gmail.com', '11912345678', 'graduação completa', '8'),
+('0157', 'Gustavo Lima', '1998-04-03', 'masculino', '10000000101', 'Botafogo, Rio de Janeiro - RJ', 'gustavolima@hotmail.com', '22987654321', 'graduação completa', '8'),
+('0158', 'Mariana Santos', '2000-07-25', 'feminino', '10000000102', 'Ipanema, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '33912345678', 'ensino médio completo', '8'),
+('0159', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000103', 'Copacabana, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '44987654321', 'graduação incompleta', '8'),
+('0160', 'Carolina Lima', '2001-11-21', 'feminino', '10000000104', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '55912345678', 'ensino médio completo', '8');
+
+
+
 
 
 
