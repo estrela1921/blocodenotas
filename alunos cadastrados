@@ -19,6 +19,9 @@ VALUES
 ( '0017', 'Umberto Rocha', '1975-12-01', 'Masculino', '274.236.500-77', 'Av. Costa x', 'umberto28@gmail.com', '978-871-564', 'Ensino Médio completo','2');
 ( '0018', 'Cirlene Matias', '1989-09-30', 'Feminino', '224.257.636-88', 'Rua das Flores 33', 'cirlene@gmail.com','982-021-664', 'Doutorado','2');
 ('0019', 'Angela Figueiredo','2002-10-11', 'Feminino', '010.100.332-54', 'Rua das Magnolias 2', 'angelaf11@gmail.com', '888-001-002', 'Pós-Graduação','2');
-
+('0020', 'Isadora Fernandes','1987-01-01','Feminino', '020.212.236-61','Rua Jacatirão 22',' isa76@yahoo.com', '970-398-121', 'Ensino Médio Incompleto','2');
+ ('0021','Andressa Gusmão','2004-08-22','Feminino','011.222.333-44','Rua doze 1800','andressagusmao@yahoo.com','977-789-123','Graduação','2');
+ ('0022', 'Ana Louisa', '1973-06-11', 'Feminino', '678.456.789-05', 'Rua São Luis 123', 'analouisa2@gmail.com', '861-579-247', 'Ensino Médio completo', '3');
+( '0023', 'Helena Fonseca', '1977-01-13', 'Feminino', '123.456.789-77', 'Rua das Palmeiras 1', 'helenaf2@gmail.com', '781-579-247', 'Pos-graduação','3');
 
 
