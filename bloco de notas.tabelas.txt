@@ -1,26 +1,6 @@
 
 INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
 VALUES
-( '0015', 'Carlos Emanuel', '2003-08-18', 'Masculino', '788.364.202-66', 'Av. Francisco de Sá 66', 'carlos472@gmail.com', '999-653-789', 'Pós-Graduação','2');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0016', 'Julianna Santos', '1960-02-26', 'Feminino', '251.796.249-99', 'Rua Egito 789', 'julianna789@gmail.com', '991-166-321', 'Ensino Médio completo','2');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-( '0017', 'Umberto Rocha', '1975-12-01', 'Masculino', '274.236.500-77', 'Av. Costa x', 'umberto28@gmail.com', '978-871-564', 'Ensino Médio completo','2');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade , id_curso )
-VALUES
-( '0018', 'Cirlene Matias', '1989-09-30', 'Feminino', '224.257.636-88', 'Rua das Flores 33', 'cirlene@gmail.com','982-021-664', 'Doutorado','2');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
-('0019', 'Angela Figueiredo','2002-10-11', 'Feminino', '010.100.332-54', 'Rua das Magnolias 2', 'angelaf11@gmail.com', '888-001-002', 'Pós-Graduação','2');
-
-INSERT INTO alunos ( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso )
-VALUES
 ('0020', Isadora Fernandes','1987-01-01','Feminino', '020.212.236-61', isa76@yahoo.com', '970-398-121', 'Ensino Médio Incompleto','2');
 
 INSERT INTO alunos( matricula, nome, nascimento, genero, cpf, endereco, email, telefone, escolaridade, id_curso)
