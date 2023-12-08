@@ -1,0 +1,210 @@
+id_aluno,matricula,nome,nascimento,genero,cpf,endereco,email,telefone,escolaridade,id_curso
+1,0001,"Ana Carolina",1970-01-21,Feminino,123.456.789-05,"Rua São Cristóvão 123",anacarolina2@gmail.com,998-579-247,"Ensino Médio incompleto",1
+2,0002,"Ester  Fonseca",1995-09-27,Feminino,160.415.395-50,"Rua Xávier da Fonseca 756",ester@gmail.com,999-654-321,Graduação,1
+3,0003,"Carlos Antônio",1990-08-10,Masculino,250.354.457-01,"Av. Luis Ayrão 789",carlosantonio@gmail.com,997-859-789,Pós-Graduação,1
+4,0004,"Maria Fernanda",1997-08-20,Feminino,377.444.555-30,"Rua nove 1900",mariaf17@gmail.com,979-631-894,"Ensino Fundamental",1
+5,0005,"Roberto Campos",2003-12-25,Masculino,920.477.679-77,"Av heitor Buarque 122",roberto885@gmail.com,982-677-771,"Cursando Ensino Médio",1
+6,0006,"Maria Gomes",1997-07-22,Feminino,231.888.265-88,"Estrada do Aço 10",mariao2@gmail.com,987-654-888,"Cursando Curso técnico",1
+7,0007,"José  da Silva",1999-09-28,Masculino,131.248.182-29,"Rua Mexico 28",jose8@gmail.com,961-685-112,"Superior completo",1
+8,0008,"Amanda Bittencourt",2000-06-22,Feminino,799.987.897-87,"Rua Montana  171",amanda99@gmail.com,987-654-820,"Superior completo",1
+9,0009,"Luis Lima",1990-12-08,Masculino,322.133.132-21,"Rua treze 22",ricardo00@gmail.com,985-346-769,"Ensino Médio Completo",1
+10,0010,"Luis Henrique",1996-08-30,Masculino,369.933.639-99,"Rua Nova York 11",henrique001@gmail.com,997-785-367,"Ensino Médio Completo",1
+11,0011,"Lucas Moura",1997-10-28,Masculino,741.274.591-74,"Av Ramos 40",lucas0202@gmail.com,993-976-912,"Ensino Médio Completo",1
+12,0012,"Camila Pitanga",1989-08-20,Feminino,276.759.427-99,"Rua Meire Emanuela 33",camilaLima7@gmail.com,990-000-899,Doutorado,2
+13,0013,"Fernando Costa ",1992-09-25,Masculino,724.111.054-08,"Av Rei Pelé 55",fernandodark@gmail.com,979-748-999,Pós-Graduação,2
+14,0014,"Cristiane Silva",1988-05-12,Feminino,748.965.825-77,"Rua Antonio Castro 31",cristiane779@gmail.com,968-655-976,Graduação,2
+15,0015,"Carlos Emanuel",2003-08-18,Masculino,788.364.202-66,"Av. Francisco de Sá 66",carlos472@gmail.com,999-653-789,Pós-Graduação,2
+16,0016,"Julianna Santos",1960-02-26,Feminino,251.796.249-99,"Rua Egito 789",julianna789@gmail.com,991-166-321,"Ensino Médio completo",2
+17,0017,"Umberto Rocha",1975-12-01,Masculino,274.236.500-77,"Av. Costa x",umberto28@gmail.com,978-871-564,"Ensino Médio completo",2
+18,0018,"Cirlene Matias",1989-09-30,Feminino,224.257.636-88,"Rua das Flores 33",cirlene@gmail.com,982-021-664,Doutorado,2
+19,0019,"Angela Figueiredo",2002-10-11,Feminino,010.100.332-54,"Rua das Magnolias 2",angelaf11@gmail.com,888-001-002,Pós-Graduação,2
+20,0020,"Isadora Fernandes",1987-01-01,Feminino,020.212.236-61,"Rua Jacatirão 22"," isa76@yahoo.com",970-398-121,"Ensino Médio Incompleto",2
+21,0021,"Andressa Gusmão",2004-08-22,Feminino,011.222.333-44,"Rua doze 1800",andressagusmao@yahoo.com,977-789-123,Graduação,2
+22,0022,"Ana Louisa",1973-06-11,Feminino,678.456.789-05,"Rua São Luis 123",analouisa2@gmail.com,861-579-247,"Ensino Médio completo",3
+23,0023,"Helena Fonseca",1977-01-13,Feminino,123.456.789-77,"Rua das Palmeiras 1",helenaf2@gmail.com,781-579-247,Pos-graduação,3
+24,0024,"André Bastos",1999-09-27,Masculino,120.545.891-01,"Rua Seajesp 32",andrebastos@gmail.com,998-234-876,"Graduação, cursando",3
+25,0025,"Maria Helena",2010-10-10,Feminino,123.876.999-50,"Rua Goias 100",maria@yahoo.com,999-767-234,"Ensino médio incompleto",3
+26,0026,"Andre Luis",1980-11-21,Masculino,456.786.999-48,"Rua das acacias 108",andrel@yahoo.com,891-675-841,"Pos-graduação, cursando",3
+27,0058,"Helena Maurícia",2002-01-01,feminino,100.000.000-01,"Madureira, Rio de Janeiro",mhelena@gmail.com,91234-5678,"ensino médio completo",6
+28,0059,"Júlia Firmo",1997-03-21,feminino,10000000002,"São Francisco, Niterói - RJ",ajuliafirmo@gmail.com,(21)98765-4321,"graduação completa",6
+29,0060,"Márcio Borges",2000-11-21,masculino,10000000004,"Piratininga, Niterói - RJ",borgesmarcio@yahoo.com,(41)91234-5678,"ensino médio completo",6
+30,0061,"Felícia Omero",1999-10-12,feminino,10000000005,"Icaraí, Niterói - RJ",felicia.omero@hotmail.com,(51)98765-4321,"ensino médio completo",6
+31,0062,"Gabriel Mello",1989-12-01,masculino,10000000006,"Santa Rosa, Niterói - RJ",gabrielmello@gmail.com,(61)99876-5432,"graduação completa",7
+32,0063,"Carlos Furtado",2001-06-10,masculino,10000000007,"Santa Bárbara, Niterói - RJ",carlosfurtado@yahoo.com,71912345678,"ensino médio completo",7
+33,0064,"Gabriele Ferreira",2000-12-03,feminino,10000000008,"Caju, Rio de Janeiro - RJ",gabiferreira@gmail.com,81987654321,"ensino médio completo",7
+34,0065,"Verônica Silva",2003-04-07,feminino,10000000009,"Benfica, Rio de Janeiro - RJ",veronicasilva@gmail.com,91998765432,"ensino médio completo",7
+35,0066,"Henrique Fagundes",1987-09-13,masculino,10000000010,"Catumbi, Rio de Janeiro - RJ",henriquefagundes@gmail.com,12912345678,"graduação completa",7
+36,0067,"Maria Décia",1999-04-01,feminino,10000000011,"Centro, Rio de Janeiro - RJ",mariadlima@gmail.com,22987654321,"graduação incompleta",7
+37,0068,"Sara Lessa",1999-08-01,feminino,10000000012,"Cidade Nova, Rio de Janeiro - RJ",saralessarj@gmail.com,32998765432,"graduação completa",7
+38,0069,"Guilherme Souza",2005-07-13,masculino,10000000013,"Estácio, Rio de Janeiro - RJ",guilhermesouza@gmail.com,42912345678,"ensino médio incompleto",7
+39,0070,"Elvis Neves",2003-08-01,masculino,10000000014,"Gamboa, Rio de Janeiro - RJ",elvisfneves@hotmail.com,52987654321,"ensino médio completo",7
+40,0071,"Cassia Moura",2007-09-12,feminino,10000000015,"Glória, Rio de Janeiro - RJ",cassiamoura@gmail.com,62998765432,"ensino médio incompleto",7
+41,0072,"Aline Bastos",2000-04-29,feminino,10000000016,"Lapa, Rio de Janeiro - RJ",bastosaline@gmail.com,72912345678,"graduação completa",8
+42,0073,"Bela Guedes",1998-02-10,feminino,10000000017,"Santa Bárbara, Niterói - RJ",belasouzaguedes@yahoo.com,82987654321,"graduação completa",8
+43,0074,"Vera Nascimento",1987-12-28,feminino,10000000018,"São Francisco, Niterói - RJ",veranascimento@gmail.com,92998765432,"graduação completa",8
+44,0075,"Tatiana Chaves",1983-08-13,feminino,10000000019,"Benfica, Rio de Janeiro - RJ",tatianachavesmoura@yahoo.com,13912345678,"graduação completa",8
+45,0076,"Débora Ortega",1997-10-02,feminino,10000000020,"Piratininga, Niterói - RJ",deboraortega@hotmail.com,23987654321,"graduação completa",8
+46,0077,"Olga Ferreira",1987-01-14,feminino,10000000021,"Cidade Nova, Rio de Janeiro - RJ",olgaferreira@gmail.com,33998765432,"graduação completa",8
+47,0078,"Alessandro Silva",1986-02-02,masculino,10000000022,"Fonseca, Rio de Janeiro - RJ",alessandrosilvaneto@yahoo.com,43912345678,"graduação completa",8
+48,0079,"Ramón Mello",1987-10-23,masculino,10000000023,"Pendotiba, Niterói - RJ",melloramon@hotmail.com,53987654321,"graduação completa",8
+49,0080,"Mário Furtado",1940-10-01,masculino,10000000024,"Estácio, Rio de Janeiro - RJ",mariofurtado@gmail.com,63998765432,"graduação completa",8
+50,0081,"André Fagundes",1997-09-10,masculino,10000000025,"Caju, Rio de Janeiro - RJ",andrefagundes@gmail.com,73912345678,"graduação completa",8
+51,0082,"Cristian Rocha",2000-12-10,masculino,10000000026,"Piratininga, Niterói - RJ",cristianrocha@gmail.com,83987654321,"ensino médio completo",1
+52,0083,"Karen Lacerda",2001-01-19,feminino,10000000027,"Gradim, São Gonçalo - RJ",karenlacerda@gmail.com,93987654321,"ensino médio incompleto",1
+53,0084,"Miguel Antunes",2003-01-16,masculino,10000000028,"Cinelândia, Rio de Janeiro - RJ",miguelantunes@yahoo.com,14912345678,"ensino médio incompleto",1
+54,0085,"Rafaela Silva",2000-07-01,feminino,10000000029,"Paraíso, São Gonçalo - RJ",rafaelasilva@gmail.com,24987654321,"ensino médio incompleto",1
+55,0086,"Andrei Mendes",1998-12-10,masculino,10000000030,"Baldeador, São Gonçalo - RJ",mendesandrei@hotmail.com,34989002345,"ensino médio completo",1
+56,0087,"Carolina Almeida",1999-05-15,feminino,10000000031,"Icaraí, Niterói - RJ",carolinaalmeida@gmail.com,44987654321,"graduação completa",1
+57,0088,"Marcos Oliveira",2001-09-30,masculino,10000000032,"Centro, Rio de Janeiro - RJ",marcosoliveira@yahoo.com,55912345678,"ensino médio completo",1
+58,0089,"Juliana Pereira",1998-07-22,feminino,10000000033,"Barreto, Niterói - RJ",julianapereira@gmail.com,66987654321,"ensino médio incompleto",1
+59,0090,"Rodrigo Santos",2002-11-05,masculino,10000000034,"Botafogo, Rio de Janeiro - RJ",rodrigosantos@gmail.com,77912345678,"ensino médio completo",1
+60,0091,"Mariana Costa",2000-03-18,feminino,10000000035,"Leblon, Rio de Janeiro - RJ",marianacosta@hotmail.com,88987654321,"graduação completa",1
+61,0092,"Pedro Henrique Lima",1997-12-12,masculino,10000000036,"Copacabana, Rio de Janeiro - RJ",pedrohlima@gmail.com,99912345678,"graduação incompleta",2
+62,0093,"Fernanda Martins",1995-08-25,feminino,10000000037,"Tijuca, Rio de Janeiro - RJ",fernandamartins@yahoo.com,11987654321,"graduação completa",2
+63,0094,"Ricardo Sousa",1999-01-08,masculino,10000000038,"Maracanã, Rio de Janeiro - RJ",ricardosousa@gmail.com,22912345678,"graduação completa",2
+64,0095,"Isabela Ferreira",2003-04-21,feminino,10000000039,"Ipanema, Rio de Janeiro - RJ",isabelaferreira@gmail.com,33987654321,"ensino médio incompleto",2
+65,0096,"Gustavo Moreira",1998-06-07,masculino,10000000040,"Gávea, Rio de Janeiro - RJ",gustavomoreira@hotmail.com,44912345678,"graduação completa",2
+66,0097,"Luiza Santos",2001-11-30,feminino,10000000041,"Laranjeiras, Rio de Janeiro - RJ",luizasantos@gmail.com,55987654321,"graduação completa",2
+67,0098,"Thiago Ribeiro",1997-09-14,masculino,10000000042,"Flamengo, Rio de Janeiro - RJ",thiagoribeiro@yahoo.com,66912345678,"graduação completa",2
+68,0099,"Patrícia Lima",2000-02-27,feminino,10000000043,"Grajaú, Rio de Janeiro - RJ",patricialima@gmail.com,77987654321,"ensino médio incompleto",2
+69,0100,"Bruno Castro",1999-04-03,masculino,10000000044,"Botafogo, Rio de Janeiro - RJ",brunocastro@hotmail.com,88912345678,"ensino médio completo",2
+70,0101,"Ana Beatriz Oliveira",2002-07-10,feminino,10000000045,"Copacabana, Rio de Janeiro - RJ",anabeatrizoliveira@gmail.com,99987654321,"ensino médio completo",2
+71,0102,"Daniel Fernandes",1998-10-05,masculino,10000000046,"Tijuca, Rio de Janeiro - RJ",danfernandes@yahoo.com,11912345678,"graduação completa",3
+72,0103,"Carla Souza",1996-12-18,feminino,10000000047,"Maracanã, Rio de Janeiro - RJ",carlasouza@gmail.com,22987654321,"graduação completa",3
+73,0104,"Mateus Santos",2000-03-21,masculino,10000000048,"Ipanema, Rio de Janeiro - RJ",mateusossantos@hotmail.com,33912345678,"ensino médio incompleto",3
+74,0105,"Laura Pereira",2003-05-09,feminino,10000000049,"Gávea, Rio de Janeiro - RJ",laurapereira@gmail.com,44987654321,"graduação completa",3
+75,0106,"Vinicius Ferreira",1998-08-16,masculino,10000000050,"Laranjeiras, Rio de Janeiro - RJ",viniciusferreira@yahoo.com,55912345678,"graduação completa",3
+76,0107,"Raquel Lima",2001-12-29,feminino,10000000051,"Grajaú, Rio de Janeiro - RJ",raquellima@gmail.com,66987654321,"graduação completa",3
+77,0108,"Pedro Henrique Silva",1997-05-25,masculino,10000000052,"Botafogo, Rio de Janeiro - RJ",pedrosilva@gmail.com,77912345678,"graduação completa",3
+78,0109,"Carolina Oliveira",2000-08-15,feminino,10000000053,"Ipanema, Rio de Janeiro - RJ",carolinaoliveira@hotmail.com,88987654321,"ensino médio completo",3
+79,0110,"Rafaela Santos",1999-09-28,feminino,10000000054,"Tijuca, Rio de Janeiro - RJ",rafaelasantos@yahoo.com,99912345678,"graduação incompleta",3
+80,0111,"João Pereira",2001-03-21,masculino,10000000055,"Maracanã, Rio de Janeiro - RJ",joaopereira@gmail.com,11987654321,"ensino médio completo",3
+81,0112,"Julia Ferreira",1998-11-12,feminino,10000000056,"Copacabana, Rio de Janeiro - RJ",juliaferreira@hotmail.com,22912345678,"ensino médio incompleto",4
+82,0113,"Lucas Oliveira",2000-04-15,masculino,10000000057,"Barra da Tijuca, Rio de Janeiro - RJ",lucasoliveira@gmail.com,33987654321,"graduação completa",4
+83,0114,"Gabriela Lima",2003-01-29,feminino,10000000058,"Leblon, Rio de Janeiro - RJ",gabrielalima@yahoo.com,44912345678,"graduação completa",4
+84,0115,"Matheus Santos",1999-06-18,masculino,10000000059,"Laranjeiras, Rio de Janeiro - RJ",matheussantos@gmail.com,55987654321,"ensino médio incompleto",4
+85,0116,"Ana Carolina Alves",2002-02-20,feminino,10000000060,"Grajaú, Rio de Janeiro - RJ",anacarolinaalves@hotmail.com,66912345678,"graduação completa",4
+86,0117,"Gustavo Pereira",1998-04-03,masculino,10000000061,"Botafogo, Rio de Janeiro - RJ",gustavopereira@gmail.com,77987654321,"graduação completa",4
+87,0118,"Mariana Costa",2000-07-25,feminino,10000000062,"Ipanema, Rio de Janeiro - RJ",marianacosta@yahoo.com,88912345678,"ensino médio completo",4
+88,0119,"Rodrigo Oliveira",1999-08-18,masculino,10000000063,"Tijuca, Rio de Janeiro - RJ",rodrigooliveira@gmail.com,99987654321,"ensino médio completo",4
+89,0120,"Carolina Lima",2001-11-21,feminino,10000000064,"Maracanã, Rio de Janeiro - RJ",carolinalima@hotmail.com,11912345678,"graduação incompleta",4
+90,0121,"João Santos",1998-12-12,masculino,10000000065,"Copacabana, Rio de Janeiro - RJ",joaosantos@yahoo.com,22987654321,"ensino médio completo",4
+91,0122,"Maria Fernanda Oliveira",2000-03-15,feminino,10000000066,"Barra da Tijuca, Rio de Janeiro - RJ",mariafernandaoliveira@gmail.com,33912345678,"ensino médio incompleto",5
+92,0123,"Pedro Henrique Pereira",1999-06-28,masculino,10000000067,"Leblon, Rio de Janeiro - RJ",pedrohpereira@hotmail.com,44987654321,"graduação completa",5
+93,0124,"Gabriela Santos",2003-01-29,feminino,10000000068,"Laranjeiras, Rio de Janeiro - RJ",gabrielasantos@gmail.com,55912345678,"ensino médio completo",5
+94,0125,"Matheus Oliveira",1999-06-18,masculino,10000000069,"Grajaú, Rio de Janeiro - RJ",matheusoliveira@yahoo.com,66987654321,"ensino médio incompleto",5
+95,0126,"Ana Carolina Costa",2002-02-20,feminino,10000000070,"Botafogo, Rio de Janeiro - RJ",anacarolinacosta@gmail.com,77912345678,"graduação completa",5
+96,0127,"Gustavo Lima",1998-04-03,masculino,10000000071,"Ipanema, Rio de Janeiro - RJ",gustavolima@hotmail.com,88987654321,"graduação completa",5
+97,0128,"Mariana Santos",2000-07-25,feminino,10000000072,"Tijuca, Rio de Janeiro - RJ",marianasantos@gmail.com,99912345678,"ensino médio completo",5
+98,0129,"Rodrigo Oliveira",1999-08-18,masculino,10000000073,"Copacabana, Rio de Janeiro - RJ",rodrigooliveira@gmail.com,11987654321,"graduação incompleta",5
+99,0130,"Carolina Lima",2001-11-21,feminino,10000000074,"Maracanã, Rio de Janeiro - RJ",carolinalima@hotmail.com,22912345678,"ensino médio completo",5
+100,0131,"João Santos",1998-12-12,masculino,10000000075,"Botafogo, Rio de Janeiro - RJ",joaosantos@yahoo.com,33987654321,"ensino médio completo",5
+101,0132,"Maria Fernanda Oliveira",2000-03-15,feminino,10000000076,"Ipanema, Rio de Janeiro - RJ",mariafernandaoliveira@gmail.com,44912345678,"graduação completa",6
+102,0133,"Pedro Henrique Pereira",1999-06-28,masculino,10000000077,"Tijuca, Rio de Janeiro - RJ",pedrohpereira@hotmail.com,55987654321,"ensino médio incompleto",6
+103,0134,"Gabriela Santos",2003-01-29,feminino,10000000078,"Leblon, Rio de Janeiro - RJ",gabrielasantos@gmail.com,66912345678,"graduação completa",6
+104,0135,"Matheus Oliveira",1999-06-18,masculino,10000000079,"Laranjeiras, Rio de Janeiro - RJ",matheusoliveira@yahoo.com,77987654321,"ensino médio incompleto",6
+105,0136,"Ana Carolina Costa",2002-02-20,feminino,10000000080,"Grajaú, Rio de Janeiro - RJ",anacarolinacosta@gmail.com,88912345678,"graduação completa",6
+106,0137,"Gustavo Lima",1998-04-03,masculino,10000000081,"Botafogo, Rio de Janeiro - RJ",gustavolima@hotmail.com,99987654321,"graduação completa",6
+107,0138,"Mariana Santos",2000-07-25,feminino,10000000082,"Ipanema, Rio de Janeiro - RJ",marianasantos@gmail.com,11912345678,"ensino médio completo",6
+108,0139,"Rodrigo Oliveira",1999-08-18,masculino,10000000083,"Copacabana, Rio de Janeiro - RJ",rodrigooliveira@gmail.com,22987654321,"graduação incompleta",6
+109,0140,"Carolina Lima",2001-11-21,feminino,10000000084,"Maracanã, Rio de Janeiro - RJ",carolinalima@hotmail.com,33912345678,"ensino médio completo",6
+110,0141,"João Santos",1998-12-12,masculino,10000000085,"Botafogo, Rio de Janeiro - RJ",joaosantos@yahoo.com,44987654321,"ensino médio completo",6
+111,0142,"Maria Fernanda Oliveira",2000-03-15,feminino,10000000086,"Ipanema, Rio de Janeiro - RJ",mariafernandaoliveira@gmail.com,55912345678,"graduação completa",7
+112,0143,"Pedro Henrique Pereira",1999-06-28,masculino,10000000087,"Tijuca, Rio de Janeiro - RJ",pedrohpereira@hotmail.com,66987654321,"ensino médio incompleto",7
+113,0144,"Gabriela Santos",2003-01-29,feminino,10000000088,"Leblon, Rio de Janeiro - RJ",gabrielasantos@gmail.com,77912345678,"graduação completa",7
+114,0145,"Matheus Oliveira",1999-06-18,masculino,10000000089,"Laranjeiras, Rio de Janeiro - RJ",matheusoliveira@yahoo.com,88987654321,"ensino médio incompleto",7
+115,0146,"Ana Carolina Costa",2002-02-20,feminino,10000000090,"Grajaú, Rio de Janeiro - RJ",anacarolinacosta@gmail.com,99912345678,"graduação completa",7
+116,0147,"Gustavo Lima",1998-04-03,masculino,10000000091,"Botafogo, Rio de Janeiro - RJ",gustavolima@hotmail.com,11987654321,"graduação completa",7
+117,0148,"Mariana Santos",2000-07-25,feminino,10000000092,"Ipanema, Rio de Janeiro - RJ",marianasantos@gmail.com,22912345678,"ensino médio completo",7
+118,0149,"Rodrigo Oliveira",1999-08-18,masculino,10000000093,"Copacabana, Rio de Janeiro - RJ",rodrigooliveira@gmail.com,33987654321,"graduação incompleta",7
+119,0150,"Carolina Lima",2001-11-21,feminino,10000000094,"Maracanã, Rio de Janeiro - RJ",carolinalima@hotmail.com,44912345678,"ensino médio completo",7
+120,0151,"João Santos",1998-12-12,masculino,10000000095,"Botafogo, Rio de Janeiro - RJ",joaosantos@yahoo.com,55987654321,"ensino médio completo",7
+121,0152,"Maria Fernanda Oliveira",2000-03-15,feminino,10000000096,"Ipanema, Rio de Janeiro - RJ",mariafernandaoliveira@gmail.com,66912345678,"graduação completa",8
+122,0153,"Pedro Henrique Pereira",1999-06-28,masculino,10000000097,"Tijuca, Rio de Janeiro - RJ",pedrohpereira@hotmail.com,77987654321,"ensino médio incompleto",8
+123,0154,"Gabriela Santos",2003-01-29,feminino,10000000098,"Leblon, Rio de Janeiro - RJ",gabrielasantos@gmail.com,88912345678,"graduação completa",8
+124,0155,"Matheus Oliveira",1999-06-18,masculino,10000000099,"Laranjeiras, Rio de Janeiro - RJ",matheusoliveira@yahoo.com,99987654321,"ensino médio incompleto",8
+125,0156,"Ana Carolina Costa",2002-02-20,feminino,10000000100,"Grajaú, Rio de Janeiro - RJ",anacarolinacosta@gmail.com,11912345678,"graduação completa",8
+126,0157,"Gustavo Lima",1998-04-03,masculino,10000000101,"Botafogo, Rio de Janeiro - RJ",gustavolima@hotmail.com,22987654321,"graduação completa",8
+127,0158,"Mariana Santos",2000-07-25,feminino,10000000102,"Ipanema, Rio de Janeiro - RJ",marianasantos@gmail.com,33912345678,"ensino médio completo",8
+128,0159,"Rodrigo Oliveira",1999-08-18,masculino,10000000103,"Copacabana, Rio de Janeiro - RJ",rodrigooliveira@gmail.com,44987654321,"graduação incompleta",8
+129,0160,"Carolina Lima",2001-11-21,feminino,10000000104,"Maracanã, Rio de Janeiro - RJ",carolinalima@hotmail.com,55912345678,"ensino médio completo",8
+130,0161,"Ana Vitória",1990-01-15,Feminino,123.456.789-01,"Rua São josé 123",anacristina2@gmail.com,998-563-247,"Ensino Médio Completo",8
+131,0162,"Carla Fonseca",1995-05-20,Feminino,184.415.395-50,"Rua Xávier 456",carlasilva@gmail.com,987-654-321,Graduação,8
+132,0163,"Carlos Antônio",1992-08-10,Masculino,222.354.457-01,"Av. Luis castro 789",carlosgui@gmail.com,988-859-789,Pós-Graduação,1
+133,0164,"Mariana Andrade",1998-03-15,Feminino,333.444.555-30,"Rua guimarães iv",mariana17@gmail.com,971-631-894,"Ensino Fundamental",1
+134,0165,"Roberto Mattos",1993-11-25,Masculino,920.481.679-77,"Av heitor castro 12",roberto885@gmail.com,982-641-771,"Cursando Ensino Médio",1
+135,0167,"Maria Oliveira",1997-04-12,Feminino,231.777.265-88,"Estrada cuba 10",mariao2@gmail.com,987-654-321,"Cursando Curso técnico",1
+136,0168,"José Silva",1994-09-18,Masculino,131.215.182-29,"Rua santana VV",jose8@gmail.com,961-685-985,"Superior completo",1
+137,0169,"Amanda Santos",1999-02-22,Feminino,789.987.897-87,"Rua Montana Silva 17",amanda99@gmail.com,987-654-320,"Superior completo",1
+138,0170,"Ricardo Lima",1991-12-05,Masculino,311.133.132-21,"Rua Zacarias",ricardo00@gmail.com,985-261-769,"Ensino Médio Completo",1
+139,0171,"Pedro Henrique",1996-06-30,Feminino,369.933.639-93,"Rua Nova York",patricia001@gmail.com,992-785-367,"Ensino Médio Completo",1
+140,0172,"Lucas Santos",1993-10-08,Masculino,741.174.591-74,"Av Cassio Ramos",lucas0202@gmail.com,993-976-975,"Ensino Médio Completo",1
+141,0173,"Camila Lima",1979-03-20,Feminino,276.759.427-91,"Rua Meire Emanuela",camilaLima7@gmail.com,990-000-800,Doutorado,1
+142,0174,"Fernando Mello ",1992-03-25,Masculino,724.111.003-08,"Av Rei Pelé",fernandodark@gmail.com,979-748-880,Pós-Graduação,2
+143,0175,"Cristiane Santos",1983-05-12,Feminino,748.965.825-36,"Rua Antonio Castro",cristiane779@gmail.com,968-654-976,Graduação,2
+144,0176,"Carlos Oliveira",2003-09-18,Masculino,788.364.202-12,"Av. Francisco Souza",carlos472@gmail.com,999-468-789,Pós-Graduação,2
+145,0177,"Mariana Santos",1960-02-22,Feminino,251.796.203-99,"Rua Egito 789",mariana789@gmail.com,991-131-321,"Ensino Médio completo",2
+146,0178,"Roberto Lima",1975-12-05,Masculino,274.236.100-77,"Av. Nígeria x",robertolima28@gmail.com,978-871-364,"Ensino Médio completo",2
+147,0179,"Patrícia Oliveira",1989-06-30,Feminino,224.257.636-88,"Rua João Nogueira 25 ",patriciaoliver17@gmail.com,993-158-875,Doutorado,2
+148,0180,"Ilma Gonçalves",1977-03-15,Feminino,796.316.975-04,"Estrada da pedra 08 ",ilmagonça168@gmail.com,978-781-570,"Superior Completo",2
+149,0181,"Diana Rodrigues",2004-06-29,Feminino,212.203.997-00,"Rua Zico 81 ",DianaRodrigues18@gmail.com,993-158-875,"Ensino Médio completo",2
+150,0027,"Sofia Silva",2000-12-25,Feminino,222.000.111-65,"Rua das Acácias",sofia10101@gmail.com,213-524-304,"Ensino médio",3
+151,0028,"Ana Silva",1995-08-14,Feminino,123.456.789-01,"Avenida do Sol Poente",ana.silva@gmail.com,123-456-789,"Ensino Médio",3
+152,0019,"Carlos Oliveira",1987-03-22,Masculino,234.567.890-12,"Travessa dos Girassóis",carlos.oliveira@gmail.com,987-654-321,Graduação,3
+153,0030,"Mariana Santos",1992-11-03,Feminino,345.678.901-23,"Praça da Liberdade",mariana.santos@gmail.com,456-789-012,"Ensino Fundamental",3
+154,0031,"Ricardo Pereira",1994-11-28,Masculino,987.654.321-09,"Alameda das Rosas",ricardo.pereira@gmail.com,654-321-987,Pós-Graduação,3
+155,0032,"Pedro Oliveira",1987-03-23,Masculino,987.654.321-02,"Rua das Violetas",pedro.oliveira@gmail.com,987-654-321,Graduação,4
+156,0033,"Carolina Pereira",1992-11-04,Feminino,456.789.012-03,"Beco dos Pássaros",carolina.pereira@gmail.com,456-789-012,Pós-Graduação,4
+157,0034,"Luiz Santos",1990-12-01,Masculino,321.654.987-04,"Avenida das Magnólias",luiz.santos@gmail.com,321-654-987,"Ensino Fundamental",4
+158,0035,"Maria Tast",1995-08-14,Feminino,123.456.789-01,"Praça do Pôr do Sol",maria.tast@gmail.com,214-567-890,"Ensino Médio",4
+159,0036,"João Santos",1987-05-22,Masculino,987.654.321-02,"Travessa Lago Azul",joao.santos@gmail.com,215-678-901,"Ensino Superior",4
+160,0037,"Camila Oliveira",1992-07-07,Feminino,234.567.890-03,"Rua Bosque Encantado",camila.oliveira@gmail.com,216-789-012,"Ensino Médio",4
+161,0038,"Ana Pereira",1990-12-15,Feminino,345.678.901-03,"Alameda dos Anjos",ana.pereira@gmail.com,345-678-901,Pós-Graduação,4
+162,0039,"Pedro Almeida",1984-06-27,Masculino,543.210.987-04,"Avenida das Estrelas",pedro.almeida@gmail.com,543-210-987,"Ensino Médio",4
+163,0040,"Juliana Santos",1998-01-19,Feminino,678.901.234-05,"Beco das Maravilhas",juliana.santos@gmail.com,678-901-234,Graduação,4
+164,0041,"Maria Silva",1995-01-14,Feminino,123.456.789-01,"Rua do Arco-Íris",maria@gmail.com,987-654-132,"Ensino Médio",4
+165,0042,"João Oliveira",1987-08-22,Masculino,987.654.321-02,"Praça da Serenidade",joao@gmail.com,876-543-321,Graduação,5
+166,0043,"Carlos Almeida",1984-06-27,Masculino,444.555.666-04,"Travessa da Lua Cheia",carlos@gmail.com,654-321-809,"Ensino Fundamental",5
+167,0044,"Isabela Costa",1998-01-19,Feminino,777.888.999-05,"Avenida das Águas Claras",isabela@gmail.com,543-210-398,"Ensino Técnico",5
+168,0045,"Mariana Rocha",1992-11-03,Feminino,456.789.012-03,"Alameda das Borboletas",mariana.rocha@gmail.com,367-890-112,Pós-Graduação,5
+169,0047,"Luiz Fernandes",1980-12-05,Masculino,789.012.345-04,"Rua das Cachoeiras",luiz.fernandes@gmail.com,278-901-723,"Ensino Fundamental",5
+170,0048,"Carolina Santos",1998-01-19,Feminino,012.345.678-05,"Beco dos Mistérios",carolina.santos@gmail.com,218-901-234,Mestrado,5
+171,0049,"Carla Costa",1998-01-19,Feminino,777.888.999-06,"Praça das Fontes",carla.costa@gmail.com,777-888-999,"Ensino Fundamental",5
+172,0050,"Laura Fernandes",1998-01-09,Feminino,789.012.345-05,"Travessa dos Diamantes",laura.fernandes@gmail.com,789-012-345,Graduação,5
+173,0051,"Mariana Pereira",1992-08-03,Feminino,456.789.012-03,"Avenida da Paz",mariana.pereira@gmail.com,456-789-012,Pós-Graduação,5
+174,0052,"Carlos Oliveira",1987-05-22,Masculino,987.654.321-02,"Rua das Conchas",carlos.oliveira@gmail.com,987-654-321,Graduação,5
+175,0053,"De Bruyne",1995-01-31,Masculino,151.818.485-05,"Alameda das Fadas",debruyne@gmail.com,259-841-034,Bacharel,6
+176,0054,Serena,1815-12-25,Feminino,120.152.487-10,"Beco das Lembranças",serena@hotmail.com,399-965-105,Mestrado,6
+177,0055,Spurgeon,1995-02-18,Masculino,150.245.856-28,"Praça da Harmonia",sp.g@yahoo.com,221-051-001,Doutorado,6
+178,0056,Lebron,1983-12-18,Masculino,15024848148,"Travessa do Silêncio",lebron@gmail.com,518019104,"Ensino Médio",6
+179,0057,Curry,2000-08-24,Masculino,025.014.369-15,"Avenida das Marés",curry@gmail.com,958-084-888,"Ensino Médio",6
+180,0182,"Gabriel Oliveira",1998-05-12,Masculino,111.222.333-40,"Rua dos Pinheiros, 123",gabriel.oliveira@example.com,123-456-789,Graduação,7
+181,0183,"Sophia Almeida",1999-02-28,Feminino,444.555.666-41,"Avenida Central, 567",sophia.almeida@example.com,987-654-321,"Ensino Médio",7
+182,0184,"Lucas Santos",2001-11-15,Masculino,777.888.999-42,"Rua das Flores, 890",lucas.santos@example.com,234-567-890,Graduação,7
+183,0185,"Julia Costa",1997-08-03,Feminino,333.444.555-43,"Alameda das Águias, 456",julia.costa@example.com,876-543-210,Pós-Graduação,7
+184,0186,"Pedro Lima",2000-04-17,Masculino,666.777.888-44,"Travessa dos Girassóis, 789",pedro.lima@example.com,543-210-987,"Ensino Fundamental",7
+185,0187,"Lara Pereira",1998-09-25,Feminino,999.000.111-45,"Rua das Oliveiras, 345",lara.pereira@example.com,654-321-098,Graduação,7
+186,0188,"Mateus Silva",1995-06-21,Masculino,222.333.444-46,"Avenida da Paz, 678",mateus.silva@example.com,789-012-345,Mestrado,7
+187,0189,"Camila Vieira",1996-12-07,Feminino,555.666.777-47,"Rua dos Lírios, 901",camila.vieira@example.com,210-987-654,"Ensino Médio",7
+188,0190,"Enzo Martins",2002-07-14,Masculino,888.999.000-48,"Alameda das Hortênsias, 234",enzo.martins@example.com,321-098-765,Graduação,7
+189,0191,"Isabella Ferreira",1994-10-19,Feminino,111.222.333-49,"Rua das Violetas, 567",isabella.ferreira@example.com,432-109-876,Graduação,7
+190,0192,"Daniel Oliveira",1999-03-01,Masculino,444.555.666-50,"Travessa dos Cravos, 890",daniel.oliveira@example.com,543-210-987,"Ensino Médio",7
+191,0193,"Manuela Costa",2001-05-28,Feminino,777.888.999-51,"Avenida das Rosas, 123",manuela.costa@example.com,654-321-098,Graduação,7
+192,0194,"Vitor Almeida",1997-12-15,Masculino,333.444.555-52,"Rua dos Jasmins, 456",vitor.almeida@example.com,765-432-109,Pós-Graduação,7
+193,0195,"Laura Santos",2000-02-09,Feminino,666.777.888-53,"Alameda dos Crisântemos, 789",laura.santos@example.com,876-543-210,"Ensino Fundamental",7
+194,0196,"Arthur Lima",1998-07-25,Masculino,999.000.111-54,"Rua das Margaridas, 345",arthur.lima@example.com,987-654-321,Graduação,7
+195,0197,"Helena Pereira",1995-04-01,Feminino,222.333.444-55,"Avenida das Orquídeas, 678",helena.pereira@example.com,098-765-432,Mestrado,7
+196,0198,"Gabriel Silva",1996-11-07,Masculino,555.666.777-56,"Travessa das Begônias, 901",gabriel.silva@example.com,109-876-543,"Ensino Médio",7
+197,0199,"Sophia Vieira",2002-08-14,Feminino,888.999.000-57,"Alameda dos Lírios, 234",sophia.vieira@example.com,210-987-654,Graduação,7
+198,0200,"Lucas Martins",1994-01-19,Masculino,111.222.333-58,"Rua dos Jasmins, 567",lucas.martins@example.com,321-098-765,Graduação,7
+199,0201,"Julia Lima",1999-03-23,Feminino,444.555.666-59,"Travessa das Orquídeas, 890",julia.lima@example.com,432-109-876,"Ensino Médio",7
+200,0202,"Pedro Oliveira",2001-06-30,Masculino,777.888.999-60,"Alameda das Margaridas, 123",pedro.oliveira@example.com,543-210-987,Graduação,7
+201,0203,"Lara Costa",1997-10-05,Feminino,333.444.555-61,"Rua dos Crisântemos, 456",lara.costa@example.com,654-321-098,Pós-Graduação,7
+202,0204,"Mateus Almeida",2000-01-10,Masculino,666.777.888-62,"Avenida das Begônias, 789",mateus.almeida@example.com,765-432-109,"Ensino Fundamental",7
+203,0205,"Camila Santos",1998-06-16,Feminino,999.000.111-63,"Travessa das Violetas, 123",camila.santos@example.com,876-543-210,Graduação,7
+204,0206,"Enzo Pereira",1995-09-21,Masculino,222.333.444-64,"Alameda das Rosas, 456",enzo.pereira@example.com,987-654-321,Mestrado,7
+205,0207,"Isabella Silva",2001-02-26,Feminino,555.666.777-65,"Rua das Margaridas, 789",isabella.silva@example.com,098-765-432,"Ensino Médio",7
+206,0208,"Daniel Lima",1997-11-01,Masculino,888.999.000-66,"Avenida dos Crisântemos, 901",daniel.lima@example.com,109-876-543,Graduação,7
+207,0209,"Manuela Oliveira",2000-04-08,Feminino,111.222.333-67,"Travessa das Orquídeas, 234",manuela.oliveira@example.com,210-987-654,Pós-Graduação,7
+208,0210,"Vitor Costa",1999-05-13,Masculino,444.555.666-68,"Alameda das Lírios, 567",vitor.costa@example.com,321-098-765,Graduação,7
+209,0211,"Laura Vieira",1996-08-18,Feminino,777.888.999-69,"Rua dos Jasmins, 890",laura.vieira@example.com,432-109-876,Graduação,7
