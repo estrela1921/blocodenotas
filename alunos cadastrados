@@ -84,6 +84,38 @@ VALUES
 ('0158', 'Mariana Santos', '2000-07-25', 'feminino', '10000000102', 'Ipanema, Rio de Janeiro - RJ', 'marianasantos@gmail.com', '33912345678', 'ensino médio completo', '8'),
 ('0159', 'Rodrigo Oliveira', '1999-08-18', 'masculino', '10000000103', 'Copacabana, Rio de Janeiro - RJ', 'rodrigooliveira@gmail.com', '44987654321', 'graduação incompleta', '8'),
 ('0160', 'Carolina Lima', '2001-11-21', 'feminino', '10000000104', 'Maracanã, Rio de Janeiro - RJ', 'carolinalima@hotmail.com', '55912345678', 'ensino médio completo', '8');
+('0182', 'Gabriel Oliveira', '1998-05-12', 'Masculino', '111.222.333-40', 'Rua dos Pinheiros, 123', 'gabriel.oliveira@example.com', '123-456-789', 'Graduação', '7'),
+('0183', 'Sophia Almeida', '1999-02-28', 'Feminino', '444.555.666-41', 'Avenida Central, 567', 'sophia.almeida@example.com', '987-654-321', 'Ensino Médio', '7'),
+('0184', 'Lucas Santos', '2001-11-15', 'Masculino', '777.888.999-42', 'Rua das Flores, 890', 'lucas.santos@example.com', '234-567-890', 'Graduação', '7'),
+('0185', 'Julia Costa', '1997-08-03', 'Feminino', '333.444.555-43', 'Alameda das Águias, 456', 'julia.costa@example.com', '876-543-210', 'Pós-Graduação', '7'),
+('0186', 'Pedro Lima', '2000-04-17', 'Masculino', '666.777.888-44', 'Travessa dos Girassóis, 789', 'pedro.lima@example.com', '543-210-987', 'Ensino Fundamental', '7'),
+('0187', 'Lara Pereira', '1998-09-25', 'Feminino', '999.000.111-45', 'Rua das Oliveiras, 345', 'lara.pereira@example.com', '654-321-098', 'Graduação', '7'),
+('0188', 'Mateus Silva', '1995-06-21', 'Masculino', '222.333.444-46', 'Avenida da Paz, 678', 'mateus.silva@example.com', '789-012-345', 'Mestrado', '7'),
+('0189', 'Camila Vieira', '1996-12-07', 'Feminino', '555.666.777-47', 'Rua dos Lírios, 901', 'camila.vieira@example.com', '210-987-654', 'Ensino Médio', '7'),
+('0190', 'Enzo Martins', '2002-07-14', 'Masculino', '888.999.000-48', 'Alameda das Hortênsias, 234', 'enzo.martins@example.com', '321-098-765', 'Graduação', '7'),
+('0191', 'Isabella Ferreira', '1994-10-19', 'Feminino', '111.222.333-49', 'Rua das Violetas, 567', 'isabella.ferreira@example.com', '432-109-876', 'Graduação', '7'),
+('0192', 'Daniel Oliveira', '1999-03-01', 'Masculino', '444.555.666-50', 'Travessa dos Cravos, 890', 'daniel.oliveira@example.com', '543-210-987', 'Ensino Médio', '7'),
+('0193', 'Manuela Costa', '2001-05-28', 'Feminino', '777.888.999-51', 'Avenida das Rosas, 123', 'manuela.costa@example.com', '654-321-098', 'Graduação', '7'),
+('0194', 'Vitor Almeida', '1997-12-15', 'Masculino', '333.444.555-52', 'Rua dos Jasmins, 456', 'vitor.almeida@example.com', '765-432-109', 'Pós-Graduação', '7'),
+('0195', 'Laura Santos', '2000-02-09', 'Feminino', '666.777.888-53', 'Alameda dos Crisântemos, 789', 'laura.santos@example.com', '876-543-210', 'Ensino Fundamental', '7'),
+('0196', 'Arthur Lima', '1998-07-25', 'Masculino', '999.000.111-54', 'Rua das Margaridas, 345', 'arthur.lima@example.com', '987-654-321', 'Graduação', '7'),
+('0197', 'Helena Pereira', '1995-04-01', 'Feminino', '222.333.444-55', 'Avenida das Orquídeas, 678', 'helena.pereira@example.com', '098-765-432', 'Mestrado', '7'),
+('0198', 'Gabriel Silva', '1996-11-07', 'Masculino', '555.666.777-56', 'Travessa das Begônias, 901', 'gabriel.silva@example.com', '109-876-543', 'Ensino Médio', '7'),
+('0199', 'Sophia Vieira', '2002-08-14', 'Feminino', '888.999.000-57', 'Alameda dos Lírios, 234', 'sophia.vieira@example.com', '210-987-654', 'Graduação', '7'),
+('0200', 'Lucas Martins', '1994-01-19', 'Masculino', '111.222.333-58', 'Rua dos Jasmins, 567', 'lucas.martins@example.com', '321-098-765', 'Graduação', '7'),
+('0201', 'Julia Lima', '1999-03-23', 'Feminino', '444.555.666-59', 'Travessa das Orquídeas, 890', 'julia.lima@example.com', '432-109-876', 'Ensino Médio', '7'),
+('0202', 'Pedro Oliveira', '2001-06-30', 'Masculino', '777.888.999-60', 'Alameda das Margaridas, 123', 'pedro.oliveira@example.com', '543-210-987', 'Graduação', '7'),
+('0203', 'Lara Costa', '1997-10-05', 'Feminino', '333.444.555-61', 'Rua dos Crisântemos, 456', 'lara.costa@example.com', '654-321-098', 'Pós-Graduação', '7'),
+('0204', 'Mateus Almeida', '2000-01-10', 'Masculino', '666.777.888-62', 'Avenida das Begônias, 789', 'mateus.almeida@example.com', '765-432-109', 'Ensino Fundamental', '7'),
+('0205', 'Camila Santos', '1998-06-16', 'Feminino', '999.000.111-63', 'Travessa das Violetas, 123', 'camila.santos@example.com', '876-543-210', 'Graduação', '7'),
+('0206', 'Enzo Pereira', '1995-09-21', 'Masculino', '222.333.444-64', 'Alameda das Rosas, 456', 'enzo.pereira@example.com', '987-654-321', 'Mestrado', '7'),
+('0207', 'Isabella Silva', '2001-02-26', 'Feminino', '555.666.777-65', 'Rua das Margaridas, 789', 'isabella.silva@example.com', '098-765-432', 'Ensino Médio', '7'),
+('0208', 'Daniel Lima', '1997-11-01', 'Masculino', '888.999.000-66', 'Avenida dos Crisântemos, 901', 'daniel.lima@example.com', '109-876-543', 'Graduação', '7'),
+('0209', 'Manuela Oliveira', '2000-04-08', 'Feminino', '111.222.333-67', 'Travessa das Orquídeas, 234', 'manuela.oliveira@example.com', '210-987-654', 'Pós-Graduação', '7'),
+('0210', 'Vitor Costa', '1999-05-13', 'Masculino', '444.555.666-68', 'Alameda das Lírios, 567', 'vitor.costa@example.com', '321-098-765', 'Graduação', '7'),
+('0211', 'Laura Vieira', '1996-08-18', 'Feminino', '777.888.999-69', 'Rua dos Jasmins, 890', 'laura.vieira@example.com', '432-109-876', 'Graduação', '7');
+
+
 
 
 
